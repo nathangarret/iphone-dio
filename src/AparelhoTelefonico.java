@@ -1,2 +1,4 @@
-public class AparelhoTelefonico {
+interface AparelhoTelefonico {
+    void ligar();
+    void desligar();
 }
